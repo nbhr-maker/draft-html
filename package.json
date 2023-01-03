@@ -1,5 +1,5 @@
 {
-  "name": "draftjs-to-html",
+  "name": "draftconverter",
   "version": "1.0.0",
   "description": "A library for draftjs to html conversion.",
   "main": "lib/draftjs-to-html.js",
