@@ -92,6 +92,3 @@ Following is the list of conversions it supports:
 10. Adding style property to block tag for block level styles like text-align: `<p style="text-align: right">text</p>`.
 
 11. RTL, if directional function parameter is true, generated blocks have property `dir = "auto"` thus they get aligned according to bidi algorithm.
-
-## License
-MIT.
